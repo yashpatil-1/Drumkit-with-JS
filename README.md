@@ -32,7 +32,8 @@ This interactive **Music Maker Web App** allows users to create music by clickin
 3. **Click on alphabets, images, or use keyboard keys** to play sounds.
 
 ## 📸 Screenshot
-![Music App Preview](./screenshot.png) *(Replace with actual image path)*
+![alt text](image.png)
+
 
 ## 🎯 Future Enhancements
 - Add **customizable beats** for users to upload their own sounds.
